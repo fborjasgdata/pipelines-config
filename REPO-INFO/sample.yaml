@@ -1,0 +1,6 @@
+---
+ SAMPLE_WS:
+  DEPLOY_DEVELOP:
+    CONTEXT: sample
+    INSTANCES: http://localhost:8081/
+    TOMCAT_PATH: C:\Program Files\Apache Software Foundation\Tomcat 8.5
