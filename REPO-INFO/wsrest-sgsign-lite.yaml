@@ -1,6 +1,6 @@
 ---
 WSREST_SGSIGN_LITE:
   DEPLOY_QA:
-    CONTEXT: wsrest-sgsign-lite-1.0.1
+    CONTEXT: wsrest-segurisign-lite
     INSTANCES: http://localhost:8081/
     TOMCAT_PATH: C:\apache-tomcat-8.0.47
