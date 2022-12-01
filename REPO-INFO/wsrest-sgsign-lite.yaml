@@ -1,6 +1,6 @@
 ---
 WSREST_SGSIGN_LITE:
   DEPLOY_QA:
-    CONTEXT: wsrest-segurisign-lite
+    CONTEXT: Portal_Firma_RNE_Web
     INSTANCES: http://localhost:8081/
     TOMCAT_PATH: C:\apache-tomcat-8.0.47
